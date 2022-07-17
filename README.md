@@ -19,6 +19,7 @@ Firebase Realtime Database setup
 
 [Getting started with Firebase](https://firebase.google.com/)
 
+![vue-chart](https://user-images.githubusercontent.com/91416868/179392330-fbd1f490-e01b-4bad-aeb1-ac31f36a794f.png)
 
 Deployed to
 https://vuechart.herokuapp.com/
