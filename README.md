@@ -18,3 +18,7 @@ Firebase Realtime Database setup
 6. Create some data in the `Data` section and edit the `Rules` according to the needs. 
 
 [Getting started with Firebase](https://firebase.google.com/)
+
+
+Deployed to
+https://vuechart.herokuapp.com/
